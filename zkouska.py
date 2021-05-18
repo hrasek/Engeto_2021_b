@@ -2,5 +2,5 @@ list_ = ['Adam','Petr','Josef']
 
 for jmeno in list_:
     if jmeno[0] == "J":
-        print(jmeno)
+        print(jmeno, "naser si")
 
